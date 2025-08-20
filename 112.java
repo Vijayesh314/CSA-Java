@@ -2,7 +2,7 @@ public class Allowance
 {
 	public static void main(String[] args)
 	{
-		final float ALLOWANCE = 8.75;
+		final double ALLOWANCE = 8.75;
 		int age = 16;
 		boolean isOldEnough = true;
 		System.out.print("Gina’s age is ");

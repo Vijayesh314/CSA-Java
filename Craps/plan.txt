@@ -16,3 +16,12 @@ When does a player win
 
 How to apply DeMorgan's Law
 - Check if the roll is not any of the special cases
+
+Truth Table
+------------------------
+|   Roll   |   Result  |
+-----------|------------
+|  7, 11   | Auto Win  |
+| 2, 3, 12 | Auto Lose |
+|  Others  |  Compare  |
+------------------------
